@@ -21,7 +21,7 @@ const initialState: TarefaState = {
       titulo: 'Finalizar o resumo da aula sobre Redux',
       prioridade: enums.Prioridade.IMPORTANTE,
       status: enums.Status.PENDENTE,
-      descricao: 'Assistir a aula novamente fazendo  anotações.',
+      descricao: 'Assistir a aula novamente fazendo anotações.',
       id: 2
     },
     {
